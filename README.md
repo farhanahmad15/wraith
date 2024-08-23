@@ -6,13 +6,13 @@
 
 Wraith is a screenshot comparison tool, created by developers at BBC News.
 
-[Documentation](http://bbc-news.github.io/wraith/) • [Source](http://github.com/bbc-news/wraith) • [Responsive News Website](http://responsivenews.co.uk)
+[Documentation](http://bbc.github.io/wraith/) • [Source](http://github.com/bbc/wraith) • [Responsive News Website](http://responsivenews.co.uk)
 
 ## What is it?
 
 Wraith uses a headless browser to create screenshots of webpages on different environments (or at different moments in time) and then creates a diff of the two images; the affected areas are highlighted in blue.
 
-![Photo of BBC News with a diff](http://bbc-news.github.io/wraith/img/wraith.png)
+![Photo of BBC News with a diff](http://bbc.github.io/wraith/img/wraith.png)
 
 ## Documentation
 
